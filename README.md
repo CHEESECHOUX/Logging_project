@@ -38,7 +38,9 @@ Docker Container간의 종속관계가 표현된 Architecture를 그리며 프�
 
 ## AWS
 
-아마존 AWS 환경을 이용한 데이터 수집 및 분석환경, Client log 접속 기록 및 모니터
+아마존 AWS 환경을 이용한 데이터 수집 및 분석환경, Client log 접속 기록 및 모니터링
+<img width=100% alt="KakaoTalk_Photo_2022-06-15-18-04-26" src="https://user-images.githubusercontent.com/48621061/173789161-910061c1-340e-4326-87be-fc26a0316f9d.png">
+
   - AWS 개발자 권한 체계 구축 (IAM)
   - Lambda 및 REST API (API Gateway) 구현
   - PostgreSQL DB 사용 및 스키마 설계
