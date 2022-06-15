@@ -1,4 +1,4 @@
-# Logging_project
+# Logging_project (with Docker, AWS)
 
 # 🗣 Introduction
 
